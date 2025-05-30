@@ -1,47 +1,59 @@
-# Data Structures & Algorithms in C++
+# 📘 Data Structures & Algorithms in C++
 
-Welcome to the *Data Structures & Algorithms* repository implemented in *C++*.  
-This repo is designed to provide clean, well-structured implementations of the most important data structures and algorithms, useful for learning, interviews, and practice.
+Welcome to the **Data Structures & Algorithms** repository implemented in **C++**.  
+This repository contains clean, well-documented, and easy-to-understand implementations of fundamental data structures and algorithms.  
+It’s perfect for learning, interview prep, academic revision, and hands-on practice.
 
 ---
 
-## Contents
+## 📂 Contents
 
-Each file in the repo focuses on a specific topic:
+Each file/folder focuses on a specific data structure or algorithm:
 
-- *Array Methods*  
-  Basic operations on arrays such as insertion, deletion, searching, and traversal.
+### 🔸 Array Methods
+- Basic operations like insertion, deletion, searching, and traversal.
 
-- *Binary Search*  
-  Efficient search algorithm implemented on sorted arrays using recursion and iteration.
+### 🔸 Binary Search
+- Efficient search algorithm on sorted arrays.
+- Implemented using both recursion and iteration.
 
-- *Linked List*  
-  Singly Linked List implemented from scratch with essential operations like insert, delete, and traverse.
+### 🔸 Linked List
+- Singly Linked List implemented from scratch.
+- Includes insert, delete, and traverse operations.
 
-- *Sorting Algorithms*  
-  Implementation of major sorting techniques:
-  - Bubble Sort  
-  - Selection Sort  
-  - Insertion Sort  
-  - Merge Sort  
+### 🔸 Stack
+- **Stack using Linked List**  
+  Classic implementation using dynamic memory with `push`, `pop`, `peek`, and `isEmpty`.
+- **Stack using Array** ✅ *(NEW)*  
+  Static implementation with overflow/underflow checks and all core operations.
+
+### 🔸 Queue
+- **Queue using Linked List** ✅ *(NEW)*  
+  Dynamic implementation that supports `enqueue`, `dequeue`, `isEmpty`, `isFound`, and more.
+- **Queue using Array** ✅ *(NEW)*  
+  Circular array-based implementation handling `enqueue`, `dequeue`, `display`, and utility functions.
+
+### 🔸 Sorting Algorithms
+- Includes major sorting techniques:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
   - Quick Sort
 
-- *Stack using Linked List*  
-  Stack data structure implemented using a linked list (includes push, pop, peek, and isEmpty).
+### 🔸 Trees
+- **Full Binary Tree** ✅ *(NEW)*  
+  A basic class-based implementation of a binary tree with node insertion and traversal support.
 
 ---
 
-## Why this Repo?
+## ✅ Why Use This Repo?
 
-This repository is helpful for:
+This repository is designed to:
 
-- Strengthening your understanding of data structures
-- Interview preparation
-- Practicing C++ implementation skills
-- Academic revision
+- Strengthen your understanding of data structures & algorithms
+- Prepare for technical interviews
+- Improve your C++ programming skills
+- Support academic study and revision
 
 ---
-
-## How to Use
-
-You can clone or fork the repo and run the C++ files locally in your compiler
