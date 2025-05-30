@@ -24,13 +24,13 @@ Each file/folder focuses on a specific data structure or algorithm:
 ### 🔸 Stack
 - **Stack using Linked List**  
   Classic implementation using dynamic memory with `push`, `pop`, `peek`, and `isEmpty`.
-- **Stack using Array** ✅ *(NEW)*  
+- **Stack using Array** 
   Static implementation with overflow/underflow checks and all core operations.
 
 ### 🔸 Queue
-- **Queue using Linked List** ✅ *(NEW)*  
+- **Queue using Linked List**  
   Dynamic implementation that supports `enqueue`, `dequeue`, `isEmpty`, `isFound`, and more.
-- **Queue using Array** ✅ *(NEW)*  
+- **Queue using Array**  
   Circular array-based implementation handling `enqueue`, `dequeue`, `display`, and utility functions.
 
 ### 🔸 Sorting Algorithms
@@ -40,10 +40,6 @@ Each file/folder focuses on a specific data structure or algorithm:
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-
-### 🔸 Trees
-- **Full Binary Tree** ✅ *(NEW)*  
-  A basic class-based implementation of a binary tree with node insertion and traversal support.
 
 ---
 
